@@ -1,5 +1,9 @@
-[![Video Title 1](https://link-to-thumbnail.com/image1.jpg)](https://link-to-video.com/video1)
+[![Artificial Intelligence Full Course](https://img.youtube.com/vi/8tq9xZsVq-0/0.jpg)](https://www.youtube.com/watch?v=8tq9xZsVq-0)
 
-[![Video Title 2](https://link-to-thumbnail.com/image2.jpg)](https://link-to-video.com/video2)
+[![Introduction to Machine Learning](https://img.youtube.com/vi/GwIo3gDZCVQ/0.jpg)](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
 
-[![Video Title 3](https://link-to-thumbnail.com/image3.jpg)](https://link-to-video.com/video3)
+[![JavaScript Full Course for Beginners](https://img.youtube.com/vi/PkZNo7MFNFg/0.jpg)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+
+[![Python for Data Science](https://img.youtube.com/vi/rfscVS0vtbw/0.jpg)](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+[![ReactJS Crash Course](https://img.youtube.com/vi/w7ejDZ8SWv8/0.jpg)](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
