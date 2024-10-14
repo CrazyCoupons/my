@@ -1,4 +1,4 @@
-[![Artificial Intelligence Full Course](https://img.youtube.com/vi/8tq9xZsVq-0/0.jpg)](https://www.youtube.com/watch?v=8tq9xZsVq-0)
+[![How AI is Shaping the Future](https://img.youtube.com/vi/2ePf9rue1Ao/0.jpg)](https://www.youtube.com/watch?v=2ePf9rue1Ao)
 
 [![Introduction to Machine Learning](https://img.youtube.com/vi/GwIo3gDZCVQ/0.jpg)](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
 
